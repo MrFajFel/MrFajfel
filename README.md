@@ -1,4 +1,4 @@
-## Hey I'm Filip       🇬🇧 English Version
+## Hey I'm Filip 👋      🇬🇧 English Version
 
 **About Me**
 
@@ -28,7 +28,7 @@ My name is Filip, I was born in march 2006 in Poland. In the future I would love
 
 ---
 
-## Cześć Jestem Filip       🇵🇱 Polish Version
+## Cześć Jestem Filip 👋     🇵🇱 Polish Version
 
 **O Mnie**
 
