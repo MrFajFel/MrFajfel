@@ -16,6 +16,7 @@ My name is Filip, I was born in march 2006 in Poland. In the future I would love
 </div>
 
 
+
 **Languages I speak or currently learning**
 
 - 🇵🇱 Polish level C1
@@ -44,6 +45,8 @@ Mam na imie Filip, Urodziłem się w marcu 2006 w Polsce. W przyszłości chcia�
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>
 </div>
+
+
 
 
 **Języki którymi się porozumiewam oraz te których sie ucze:**
