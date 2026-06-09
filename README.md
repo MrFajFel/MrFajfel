@@ -4,6 +4,8 @@
 
 My name is Filip, I was born in march 2006 in Poland. In the future I would love to create front-end for web aplications. Maybe that will change someday but right now I like creating websites.
 
+---
+
 **Languages and Tools I use:**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -15,7 +17,7 @@ My name is Filip, I was born in march 2006 in Poland. In the future I would love
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>
 </div>
 
-
+---
 
 **Languages I speak or currently learning**
 
@@ -24,16 +26,15 @@ My name is Filip, I was born in march 2006 in Poland. In the future I would love
 - 🇩🇪 German level A1
 - 🇪🇸 Spanish (currently learning)
 
-
-
-
-
+---
 
 ## Cześć Jestem Filip       🇵🇱 Polish Version
 
 **O Mnie**
 
 Mam na imie Filip, Urodziłem się w marcu 2006 w Polsce. W przyszłości chciałbym tworzyć front-end dla aplikacji web. Jestem otwarty na inne technologie i z chęcią bym się jakiś nauczył.
+
+---
 
 **Języki programowania oraz technologie z jakich korzystam:**
 <div>
@@ -46,8 +47,7 @@ Mam na imie Filip, Urodziłem się w marcu 2006 w Polsce. W przyszłości chcia�
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>
 </div>
 
-
-
+---
 
 **Języki którymi się porozumiewam oraz te których sie ucze:**
 
