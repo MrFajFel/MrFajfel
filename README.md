@@ -1,6 +1,6 @@
 ## Hey I'm Filip       🇬🇧 English Version
 
-** About Me **
+**About Me**
 My name is Filip, I was born in march 2006 in Poland. In the future I would love to create front-end for web aplications. Maybe that will change someday but right now I like creating websites.
 
 **Languages and Tools I use:**
@@ -16,7 +16,7 @@ My name is Filip, I was born in march 2006 in Poland. In the future I would love
 </div>
 
 
-** Languages I speak or currently learning**
+**Languages I speak or currently learning**
 
 - 🇵🇱 Polish level C1
 - 🇬🇧 English level B2
