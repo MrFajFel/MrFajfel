@@ -2,7 +2,7 @@
 
 **About Me**
 
-My name is Filip, I was born in march 2006 in Poland. In the future I would love to create front-end for web aplications. Maybe that will change someday but right now I like creating websites.
+My name is Filip, I was born in march 2006 in Poland. In the future I would love to create front-end for web aplications, maybe that will change someday but right now I like creating websites.
 
 ---
 
